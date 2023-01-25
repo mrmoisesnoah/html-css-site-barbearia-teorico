@@ -7,6 +7,7 @@ Projeto de página em HTML e CSS3, curso de formação de HTML5 e CSS3 Alura! Co
 
 ✔️ Tecnologias utilizadas
 
-HTML5
-CSS3
-Visual Studio
+* HTML5;
+* CSS3;
+* Visual Studio;
+
